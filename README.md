@@ -6,7 +6,7 @@ This is a simple To-Do List application built with React, utilizing local storag
 ## Features
 
 - Add tasks
-- Mark tasks as completed
+- Mark tasks as completed , ongoing , not-started 
 - Delete tasks
 - Tasks are stored in local storage for persistence
 
